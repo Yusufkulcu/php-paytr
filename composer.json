@@ -1,0 +1,12 @@
+{
+    "name": "yufusphp/paytr-php",
+    "description": "Yusuf Kulcu tarafindan php icin hazirlanmis olan paytr sanal pos entegrasyon kutuphanesi",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yufusphp\\PaytrPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
